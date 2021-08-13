@@ -9,5 +9,5 @@ User need not to enter login data again and again.
  <img src="https://user-images.githubusercontent.com/88314161/129313546-4eb701fc-7ff3-4308-8228-1093f964a755.png" width="250" height="450" />
 
 
-<p align = "trailing">
+<p align = "leading">
  <img src="https://user-images.githubusercontent.com/88314161/129313546-4eb701fc-7ff3-4308-8228-1093f964a755.png" width="250" height="450" />
