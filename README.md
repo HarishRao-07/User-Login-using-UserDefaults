@@ -7,5 +7,7 @@ User need not to enter login data again and again.
 
 <p align = "center">
  <img src="https://user-images.githubusercontent.com/88314161/129313546-4eb701fc-7ff3-4308-8228-1093f964a755.png" width="250" height="450" />
- ![Simulator Screen Shot - iPhone 8 - 2021-08-15 at 11 46 12](https://user-images.githubusercontent.com/88314161/129470559-c09e9a8b-9d99-4b51-9fa2-53ae88d20728.png)
+  <img src="https://user-images.githubusercontent.com/88314161/129470559-c09e9a8b-9d99-4b51-9fa2-53ae88d20728.png" width="250" height="450" />
+ 
+
 
